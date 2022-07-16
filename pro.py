@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib import style
 style.use('ggplot')
-%matplotlib inline
 
 header=st.beta_container()
 dataset=st.beta_container()
